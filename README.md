@@ -8,7 +8,7 @@ You can see the changes because every time you click on the button,
 program set the color of the button randomly by using setState() method.
 
 # Stateless Widget
-The widgets whose stateless can not be altered once they are built are called stateless widgets. These widgets are immutable once they are built i.e any amount of change in the variables, icons, buttons, or retrieving data can not change the state of the app.
+The widgets whose state can not be altered once they are built are called stateless widgets. These widgets are immutable once they are built i.e any amount of change in the variables, icons, buttons, or retrieving data can not change the state of the app.
 
 
 ## Screenshots
