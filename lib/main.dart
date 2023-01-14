@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     // TODO: implement build
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       routes: {
         "/stateful": (BuildContext context) => SceenStateful(),
         "/stateless": (BuildContext context) => SceenStateless()
