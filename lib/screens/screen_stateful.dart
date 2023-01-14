@@ -32,7 +32,7 @@ class _SceenStateful extends State {
     return Scaffold(
       body: Column(
         children: [
-          SizedBox(height: 20),
+          SizedBox(height: 0),
           Container(
             child: Center(
               child: Text(
